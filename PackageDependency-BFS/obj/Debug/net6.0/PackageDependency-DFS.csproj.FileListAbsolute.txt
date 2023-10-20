@@ -1,0 +1,30 @@
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.exe
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.deps.json
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.runtimeconfig.json
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.dll
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.pdb
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.csproj.AssemblyReference.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.AssemblyInfoInputs.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.AssemblyInfo.cs
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.csproj.CoreCompileInputs.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.dll
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\refint\PackageDependency-DFS.dll
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.pdb
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.genruntimeconfig.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\ref\PackageDependency-DFS.dll
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.exe
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.deps.json
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.runtimeconfig.json
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.dll
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-DFS.pdb
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.csproj.AssemblyReference.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.AssemblyInfoInputs.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.AssemblyInfo.cs
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.csproj.CoreCompileInputs.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.dll
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\refint\PackageDependency-DFS.dll
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.pdb
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-DFS.genruntimeconfig.cache
+C:\Users\efrin\OneDrive\Documents\GitHub\PackageDependencySolution\PackageDependency-BFS\obj\Debug\net6.0\ref\PackageDependency-DFS.dll

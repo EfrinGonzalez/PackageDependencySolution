@@ -1,0 +1,15 @@
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-BFS.exe
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-BFS.deps.json
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-BFS.runtimeconfig.json
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-BFS.dll
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\bin\Debug\net6.0\PackageDependency-BFS.pdb
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.csproj.AssemblyReference.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.AssemblyInfoInputs.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.AssemblyInfo.cs
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.csproj.CoreCompileInputs.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.dll
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\refint\PackageDependency-BFS.dll
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.pdb
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\PackageDependency-BFS.genruntimeconfig.cache
+C:\Users\efrin\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Algorithms\PackageDependency-BFS\obj\Debug\net6.0\ref\PackageDependency-BFS.dll

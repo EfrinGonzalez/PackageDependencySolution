@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-DFS-Tests\\PackageDependency-DFS-Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-BFS\\PackageDependency-DFS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-BFS\\PackageDependency-DFS.csproj",
+        "projectName": "PackageDependency-DFS",
+        "projectPath": "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-BFS\\PackageDependency-DFS.csproj",
+        "packagesPath": "C:\\Users\\efrin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-BFS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\efrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-DFS-Tests\\PackageDependency-DFS-Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-DFS-Tests\\PackageDependency-DFS-Tests.csproj",
+        "projectName": "PackageDependency-DFS-Tests",
+        "projectPath": "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-DFS-Tests\\PackageDependency-DFS-Tests.csproj",
+        "packagesPath": "C:\\Users\\efrin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-DFS-Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\efrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-BFS\\PackageDependency-DFS.csproj": {
+                "projectPath": "C:\\Users\\efrin\\OneDrive\\Documents\\GitHub\\PackageDependencySolution\\PackageDependency-BFS\\PackageDependency-DFS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
